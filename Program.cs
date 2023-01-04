@@ -5,7 +5,7 @@
         public static void Main(string[] args) 
         {
           //Console.WriteLine("Welcome To Employee Wage Computation Program");
-            ConditionTWH obj = new ConditionTWH();
+            ClassMethodEW obj = new ClassMethodEW();
             obj.Check();
         }
     }
