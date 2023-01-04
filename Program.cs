@@ -5,7 +5,7 @@
         public static void Main(string[] args) 
         {
           //Console.WriteLine("Welcome To Employee Wage Computation Program");
-            Switchcase obj= new Switchcase();
+            MonthWage obj = new MonthWage();
             obj.Check();
         }
     }
